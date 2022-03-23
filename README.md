@@ -1,4 +1,4 @@
-## Hello eu sou o Marcelo Gonçalves, estudante de programação e apaixonado por tecnologia!
+## Hello eu sou  Marcelo Gonçalves, estudante de programação e apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/MarceloStudies">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelogoncallves&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
