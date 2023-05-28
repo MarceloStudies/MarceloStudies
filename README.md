@@ -1,8 +1,11 @@
-## 👨‍💻Hello eu sou  Marcelo Gonçalves, estudante de programação e apaixonado por tecnologia!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Gonçalves;I'm+20+years+old;I+am+from+Cruzeiro,+SP;+I+currently+work+as+a+Junior+Fullstack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/MarceloStudies">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelogoncallves&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloStudies&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelogoncallves&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloStudies&layout=compact&langs_count=7&theme=gotham"/>
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloStudies&theme=dark" height="180em" />
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +17,6 @@
   <img align="center" alt="Marcelo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Marcelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://github.com/Marcelogoncallves/Marcelogoncallves/blob/master/WhatsApp%20Image%202022-01-05%20at%2016.13.19.jpeg">
 </div>
   
   ##
